@@ -6,3 +6,5 @@
 - Prenume
 - Nume
 - buton de detalii: la apasare, toate detaliile pacientului vor fi afisate in pagina, intr-un popup
+
+URL: https://marvelous-shortbread-c36db4.netlify.app/
